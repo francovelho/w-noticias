@@ -58,6 +58,8 @@ body.escurecer::before {
     flex-direction: column;
     padding: 1.5rem;
     gap: 1.5rem;
+
+    transition: 0.7s;
     
 } 
 
